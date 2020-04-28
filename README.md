@@ -1,3 +1,8 @@
+<a href="https://githubsfdeploy.herokuapp.com">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+ 
  Apex Trigger Framework 1.0 is simple trigger framework built on force.com platform. The business solution implemented using this framework needs to follow certain rules. As the number of claases written for this framework are very less so it reduce the complexity of framework. This framework is suitable for small application only. 
 
 For applications with complex business logic and large no of classes, use “Apex Trigger Framework 2.0” : Coming Soon
